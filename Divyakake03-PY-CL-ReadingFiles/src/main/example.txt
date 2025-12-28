@@ -1,0 +1,7 @@
+"""
+
+The read() method:
+This function returns the bytes read as a string. If no n is specified, it then reads the entire file.
+
+
+"""
